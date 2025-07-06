@@ -28,11 +28,11 @@
 
 ## Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=php,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,codeigniter,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
 
 **ความเชี่ยวชาญหลัก:**
 
-* สร้าง API ด้วย Express, NestJS, Django
+* สร้าง API ด้วย Express, NestJS, Django, Laravel, CodeIgniter
 * ออกแบบระบบ Microservices และ Serverless Architecture
 * เขียน Unit Test, Integration Test และตั้งค่า CI/CD Pipeline
 
@@ -40,13 +40,13 @@
 
 ## Database & Data Storage
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mariadb\&theme=dark)](https://skillicons.dev)
 
 **ความเชี่ยวชาญหลัก:**
 
 * ออกแบบ Schema และ ER Diagram
 * เขียน SQL Query & Index Optimization
-* ตั้งค่า Replication, Sharding และ Backup/Restore
+* ตั้งค่า Replication, Sharding และ Backup/Restore ด้วย MariaDB, MySQL, PostgreSQL และ MongoDB
 
 ---
 
