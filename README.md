@@ -28,11 +28,11 @@
 
 ## Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,codeigniter,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
 
 **ความเชี่ยวชาญหลัก:**
 
-* สร้าง API ด้วย Express, NestJS, Laravel, CodeIgniter
+* สร้าง API ด้วย Express, NestJS, Django, Laravel, CodeIgniter
 * ออกแบบระบบ Microservices และ Serverless Architecture
 * เขียน Unit Test, Integration Test และตั้งค่า CI/CD Pipeline
 
@@ -52,10 +52,16 @@
 
 ## Tools & Services
 
-[![My Skills](https://skillicons.dev/icons?i=github,mockapi\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,mockapi,postman,visualstudiocode,visualstudio,navicat,putty,winscp,almalinux,zabbix\&theme=dark)](https://skillicons.dev)
 
-* GitHub: การควบคุมเวอร์ชัน โค้ดรีวิว และ Collaboration
-* MockAPI: สร้าง API จำลองสำหรับการพัฒนาและทดสอบ Frontend
+* **GitHub:** การควบคุมเวอร์ชัน โค้ดรีวิว และ Collaboration
+* **MockAPI:** สร้าง API จำลองสำหรับการพัฒนาและทดสอบ Frontend
+* **Postman:** ทดสอบและจำลอง API ด้วย Collections
+* **Visual Studio Code & Visual Studio:** IDE สำหรับพัฒนาโปรเจกต์
+* **Navicat:** จัดการฐานข้อมูล MySQL, MariaDB, PostgreSQL
+* **PuTTY & WinSCP:** SSH และ SFTP สำหรับการเชื่อมต่อและโอนย้ายไฟล์
+* **AlmaLinux:** ระบบปฏิบัติการ Enterprise Linux สำหรับเซิร์ฟเวอร์
+* **Zabbix:** ระบบมอนิเตอร์และแจ้งเตือนโครงสร้างพื้นฐาน
 
 ---
 
