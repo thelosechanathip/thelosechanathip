@@ -28,7 +28,7 @@
 
 ## Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,codeigniter,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
 
 **ความเชี่ยวชาญหลัก:**
 
@@ -52,8 +52,8 @@
 
 ## ติดต่อ & โปรไฟล์
 
-* **GitHub:** [YourUsername](https://github.com/YourUsername)
+* **GitHub:** [YourUsername](https://github.com/thelosechanathip)
 * **LinkedIn:** [YourName](https://linkedin.com/in/YourProfile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Email:** [your.email@example.com](mailto:chanathipbadboy@gmail.com)
 
 > ✉️ ยินดีรับงานใหม่และโอกาสในการร่วมงาน ติดต่อสอบถามได้เลยครับ!
