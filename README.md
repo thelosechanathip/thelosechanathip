@@ -1,6 +1,6 @@
 # ทักษะ & เทคโนโลยี
 
-สรุปความสามารถและเทคโนโลยีที่เชี่ยวชาญ ครอบคลุมตั้งแต่การออกแบบ UX/UI ไปจนถึงพัฒนา Frontend, Backend และ Database
+สรุปความสามารถและเทคโนโลยีที่เชี่ยวชาญ ครอบคลุมตั้งแต่การออกแบบ UX/UI ไปจนถึงพัฒนา Frontend, Backend, Database และเครื่องมือสนับสนุน
 
 ---
 
@@ -16,19 +16,19 @@
 
 ## Frontend Development
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,tailwind,react,vue,angular,next\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,bootstrap,tailwind,react,vue,angular,next,materialui,dayui\&theme=dark)](https://skillicons.dev)
 
 **ความเชี่ยวชาญหลัก:**
 
 * พัฒนา Single Page Applications (SPA) และ Progressive Web Apps (PWA)
-* Responsive & Mobile-first Design
+* Responsive & Mobile-first Design ด้วย Bootstrap, Tailwind CSS, MUI, DayUI
 * ทำงานร่วมกับ RESTful API และ GraphQL
 
 ---
 
 ## Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,codeigniter,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
 
 **ความเชี่ยวชาญหลัก:**
 
@@ -50,10 +50,19 @@
 
 ---
 
+## Tools & Services
+
+[![My Skills](https://skillicons.dev/icons?i=github,mockapi\&theme=dark)](https://skillicons.dev)
+
+* GitHub: การควบคุมเวอร์ชัน โค้ดรีวิว และ Collaboration
+* MockAPI: สร้าง API จำลองสำหรับการพัฒนาและทดสอบ Frontend
+
+---
+
 ## ติดต่อ & โปรไฟล์
 
-* **GitHub:** [thelosechanathip](https://github.com/thelosechanathip)
+* **GitHub:** [YourUsername](https://github.com/YourUsername)
 * **LinkedIn:** [YourName](https://linkedin.com/in/YourProfile)
-* **Email:** [chanathipbadboy@gmail.com](mailto:chanathipbadboy@gmail.com)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 > ✉️ ยินดีรับงานใหม่และโอกาสในการร่วมงาน ติดต่อสอบถามได้เลยครับ!
