@@ -32,7 +32,7 @@
 
 **ความเชี่ยวชาญหลัก:**
 
-* สร้าง API ด้วย Express, NestJS, Django, Laravel, CodeIgniter
+* สร้าง API ด้วย Express, NestJS, Laravel, CodeIgniter
 * ออกแบบระบบ Microservices และ Serverless Architecture
 * เขียน Unit Test, Integration Test และตั้งค่า CI/CD Pipeline
 
