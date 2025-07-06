@@ -52,8 +52,8 @@
 
 ## ติดต่อ & โปรไฟล์
 
-* **GitHub:** [YourUsername](https://github.com/thelosechanathip)
+* **GitHub:** [thelosechanathip](https://github.com/thelosechanathip)
 * **LinkedIn:** [YourName](https://linkedin.com/in/YourProfile)
-* **Email:** [your.email@example.com](mailto:chanathipbadboy@gmail.com)
+* **Email:** [chanathipbadboy@gmail.com](mailto:chanathipbadboy@gmail.com)
 
 > ✉️ ยินดีรับงานใหม่และโอกาสในการร่วมงาน ติดต่อสอบถามได้เลยครับ!
