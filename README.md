@@ -1,11 +1,59 @@
-# Skill UX/UI Design
-[![My Skills](https://skillicons.dev/icons?i=figma,&theme=dark)](https://skillicons.dev)
+# ทักษะ & เทคโนโลยี
 
-# Skill FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,tailwind,react,vue,angular,next,&theme=dark)](https://skillicons.dev)
+สรุปความสามารถและเทคโนโลยีที่เชี่ยวชาญ ครอบคลุมตั้งแต่การออกแบบ UX/UI ไปจนถึงพัฒนา Frontend, Backend และ Database
 
-# Skill BackEnd
-[![My Skills](https://skillicons.dev/icons?i=php,next,python,bun,nodejs&theme=dark)](https://skillicons.dev)
+---
 
-# Skill Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,&theme=dark)](https://skillicons.dev)
+## UX/UI Design
+
+[![My Skills](https://skillicons.dev/icons?i=figma\&theme=dark)](https://skillicons.dev)
+
+* ออกแบบ User Flow, Wireframe และ Prototype ด้วย Figma
+* สร้างระบบ Design System เพื่อความสม่ำเสมอของ UI
+* ทดสอบและปรับปรุงประสบการณ์ใช้งาน (Usability Testing)
+
+---
+
+## Frontend Development
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,tailwind,react,vue,angular,next\&theme=dark)](https://skillicons.dev)
+
+**ความเชี่ยวชาญหลัก:**
+
+* พัฒนา Single Page Applications (SPA) และ Progressive Web Apps (PWA)
+* Responsive & Mobile-first Design
+* ทำงานร่วมกับ RESTful API และ GraphQL
+
+---
+
+## Backend Development
+
+[![My Skills](https://skillicons.dev/icons?i=php,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
+
+**ความเชี่ยวชาญหลัก:**
+
+* สร้าง API ด้วย Express, NestJS, Django
+* ออกแบบระบบ Microservices และ Serverless Architecture
+* เขียน Unit Test, Integration Test และตั้งค่า CI/CD Pipeline
+
+---
+
+## Database & Data Storage
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql\&theme=dark)](https://skillicons.dev)
+
+**ความเชี่ยวชาญหลัก:**
+
+* ออกแบบ Schema และ ER Diagram
+* เขียน SQL Query & Index Optimization
+* ตั้งค่า Replication, Sharding และ Backup/Restore
+
+---
+
+## ติดต่อ & โปรไฟล์
+
+* **GitHub:** [YourUsername](https://github.com/YourUsername)
+* **LinkedIn:** [YourName](https://linkedin.com/in/YourProfile)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+> ✉️ ยินดีรับงานใหม่และโอกาสในการร่วมงาน ติดต่อสอบถามได้เลยครับ!
