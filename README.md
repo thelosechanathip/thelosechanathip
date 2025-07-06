@@ -28,7 +28,7 @@
 
 ## Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,codeigniter,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,next,python,bun,nodejs\&theme=dark)](https://skillicons.dev)
 
 **ความเชี่ยวชาญหลัก:**
 
