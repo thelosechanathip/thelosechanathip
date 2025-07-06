@@ -52,7 +52,7 @@
 
 ## Tools & Services
 
-[![My Skills](https://skillicons.dev/icons?i=github,mockapi,postman,vscode,visualstudio,navicat,putty,winscp,almalinux,zabbix\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,postman,vscode,visualstudio,\&theme=dark)](https://skillicons.dev)
 
 * **GitHub:** การควบคุมเวอร์ชัน โค้ดรีวิว และ Collaboration
 * **MockAPI:** สร้าง API จำลองสำหรับการพัฒนาและทดสอบ Frontend
