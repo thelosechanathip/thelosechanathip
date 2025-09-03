@@ -82,6 +82,14 @@
 
 ---
 
+## Certificate
+https://drive.google.com/file/d/1kQY2iwvH4WKYmn6j6F5I3y_RFmx9XrCZ/view?usp=drive_link
+https://drive.google.com/file/d/1P1JAPmu2B22Wo1jm3H1wmLH0vT6i3xt-/view?usp=drive_link
+https://drive.google.com/file/d/1tVgvJaeKfd-uzdepz4Ffrd672tYc9ZhO/view?usp=drive_link
+https://drive.google.com/file/d/1t9CKUpbNrSEamA7T_O7rCxTYIIdAxkrC/view?usp=drive_link
+
+---
+
 ## ติดต่อ & โปรไฟล์
 
 * **GitHub:** [thelosechanathip](https://github.com/thelosechanathip)  
