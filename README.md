@@ -10,7 +10,6 @@
 
 * ออกแบบ User Flow, Wireframe และ Prototype ด้วย Figma  
 * สร้างระบบ Design System เพื่อความสม่ำเสมอของ UI  
-* ทดสอบและปรับปรุงประสบการณ์ใช้งาน (Usability Testing)  
 
 ---
 
@@ -21,8 +20,8 @@
 **ความเชี่ยวชาญหลัก:**
 
 * พัฒนา Single Page Applications (SPA) และ Progressive Web Apps (PWA)  
-* Responsive & Mobile‑first Design ด้วย Bootstrap, Tailwind CSS, MUI, DayUI  
-* ทำงานร่วมกับ RESTful API และ GraphQL  
+* Responsive & Mobile‑first Design ด้วย Bootstrap, Tailwind CSS, MUI, DaisyUI, HeroUI, ShadcnUI, Ant Design
+* ทำงานร่วมกับ RESTful API
 
 ---
 
@@ -32,9 +31,7 @@
 
 **ความเชี่ยวชาญหลัก:**
 
-* สร้าง API ด้วย Express, NestJS, Django, Laravel, CodeIgniter  
-* ออกแบบระบบ Microservices และ Serverless Architecture  
-* เขียน Unit Test, Integration Test และตั้งค่า CI/CD Pipeline  
+* สร้าง API ด้วย Express, Laravel, CodeIgniter, Bun + ElysiaJS
 
 ---
 
@@ -45,8 +42,9 @@
 **ความเชี่ยวชาญหลัก:**
 
 * ออกแบบ Schema และ ER Diagram  
-* เขียน SQL Query & Index Optimization  
-* ตั้งค่า Replication, Sharding และ Backup/Restore ด้วย MariaDB, MySQL, PostgreSQL และ MongoDB  
+* เขียน SQL Query
+* ตั้งค่า Replication, Sharding และ Backup/Restore ด้วย MariaDB, MySQL, PostgreSQL และ MongoDB
+* สามารถใช้งาน Xtrabackup, MariadbBackup, Mydumper, Myloader ได้
 
 ---
 
@@ -58,9 +56,9 @@
 * **MockAPI:** สร้าง API จำลองสำหรับการพัฒนาและทดสอบ Frontend  
 * **Postman:** ทดสอบและจำลอง API ด้วย Collections  
 * **Visual Studio Code & Visual Studio:** IDE สำหรับพัฒนาโปรเจกต์  
-* **Navicat:** จัดการฐานข้อมูล MySQL, MariaDB, PostgreSQL  
+* **Navicat:** จัดการฐานข้อมูล MySQL, MariaDB, PostgreSQL, MongoDB
 * **PuTTY & WinSCP:** SSH และ SFTP สำหรับการเชื่อมต่อและโอนย้ายไฟล์  
-* **AlmaLinux:** ระบบปฏิบัติการ Enterprise Linux สำหรับเซิร์ฟเวอร์  
+* **AlmaLinux:** ระบบปฏิบัติการ Enterprise Linux สำหรับเซิร์ฟเวอร์ สามารถ Config http และ https ตั้งค่า crontab, HAProxy
 * **Zabbix:** ระบบมอนิเตอร์และแจ้งเตือนโครงสร้างพื้นฐาน  
 
 ---
