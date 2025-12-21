@@ -1,96 +1,136 @@
-# ทักษะ & เทคโนโลยี
+# 🧠 ทักษะ & เทคโนโลยี (Skills & Technologies)
 
-สรุปความสามารถและเทคโนโลยีที่เชี่ยวชาญ ครอบคลุมตั้งแต่การออกแบบ UX/UI ไปจนถึงพัฒนา Frontend, Backend, Database และเครื่องมือสนับสนุน
+สรุปความสามารถด้านการพัฒนาซอฟต์แวร์แบบครบวงจร ตั้งแต่การออกแบบ UX/UI, Frontend, Backend, Database, DevOps, Infrastructure ไปจนถึง Cybersecurity และ AI  
+มีประสบการณ์พัฒนาระบบ **ใช้งานจริงระดับองค์กร / โรงพยาบาล / หน่วยงานภาครัฐ**
 
 ---
 
-## UX/UI Design
+## 🎨 UX / UI Design
 
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
-* ออกแบบ User Flow, Wireframe และ Prototype ด้วย Figma  
-* สร้างระบบ Design System เพื่อความสม่ำเสมอของ UI  
+- ออกแบบ **User Flow, Wireframe และ Prototype** ด้วย Figma  
+- สร้างและดูแล **Design System** เพื่อความสม่ำเสมอของ UI  
+- ออกแบบ UX โดยคำนึงถึง **Usability, Accessibility และ Workflow ขององค์กร**
 
 ---
 
-## Frontend Development
+## 🌐 Frontend Development
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,bootstrap,tailwind,react,vue,angular,next,materialui,dayui&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,react,next,vue,angular,materialui&theme=dark)](https://skillicons.dev)
 
-**ความเชี่ยวชาญหลัก:**
-
-* พัฒนา Single Page Applications (SPA) และ Progressive Web Apps (PWA)  
-* Responsive & Mobile‑first Design ด้วย Bootstrap, Tailwind CSS, MUI, DaisyUI, HeroUI, ShadcnUI, Ant Design
-* ทำงานร่วมกับ RESTful API
-
----
-
-## Backend Development
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,next,python,bun,nodejs&theme=dark)](https://skillicons.dev)
-
-**ความเชี่ยวชาญหลัก:**
-
-* สร้าง API ด้วย Express, Laravel, CodeIgniter, Bun + ElysiaJS
+**ความเชี่ยวชาญหลัก**
+- พัฒนา **SPA / SSR / PWA** ด้วย Next.js และ Framework สมัยใหม่  
+- Responsive & Mobile-first Design  
+- ใช้งาน UI Framework:
+  - Bootstrap, Tailwind CSS  
+  - MUI, DaisyUI, HeroUI, ShadcnUI  
+  - Ant Design, AG Grid  
+- เชื่อมต่อและจัดการข้อมูลจาก **RESTful API / Backend Services**
 
 ---
 
-## Database & Data Storage
+## 🧩 Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mariadb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,nodejs,bun,go&theme=dark)](https://skillicons.dev)
 
-**ความเชี่ยวชาญหลัก:**
-
-* ออกแบบ Schema และ ER Diagram  
-* เขียน SQL Query
-* ตั้งค่า Replication, Sharding และ Backup/Restore ด้วย MariaDB, MySQL, PostgreSQL และ MongoDB
-* สามารถใช้งาน Xtrabackup, MariadbBackup, Mydumper, Myloader ได้
+**ความเชี่ยวชาญหลัก**
+- พัฒนา Backend & API ด้วย:
+  - PHP (Laravel, CodeIgniter)  
+  - Node.js, Bun (ElysiaJS)  
+  - Golang (Fiber)  
+  - Python (FastAPI / Automation)  
+- ออกแบบ REST API และโครงสร้างระบบให้ **ขยายง่าย ดูแลรักษาง่าย**
+- เชื่อมต่อระบบภายในองค์กรและ Third-party API
 
 ---
 
-## Tools & Services
+## 🗄️ Database & Data Engineering
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mariadb,postgresql,mongodb&theme=dark)](https://skillicons.dev)
+
+**ความเชี่ยวชาญหลัก**
+- ออกแบบ **Database Schema & ER Diagram**
+- เขียนและปรับจูน **SQL Query ระดับ Advanced**
+- ดูแลฐานข้อมูล:
+  - MySQL / MariaDB (Advanced)  
+  - PostgreSQL  
+  - MongoDB  
+- ทำ Replication, Backup & Restore
+- ใช้งานเครื่องมือ:
+  - Percona XtraBackup  
+  - MariaDB Backup  
+  - Mydumper / Myloader  
+
+---
+
+## 🛠️ Tools & Developer Utilities
 
 [![My Skills](https://skillicons.dev/icons?i=github,postman,vscode,visualstudio&theme=dark)](https://skillicons.dev)
 
-* **GitHub:** การควบคุมเวอร์ชัน โค้ดรีวิว และ Collaboration  
-* **MockAPI:** สร้าง API จำลองสำหรับการพัฒนาและทดสอบ Frontend  
-* **Postman:** ทดสอบและจำลอง API ด้วย Collections  
-* **Visual Studio Code & Visual Studio:** IDE สำหรับพัฒนาโปรเจกต์  
-* **Navicat:** จัดการฐานข้อมูล MySQL, MariaDB, PostgreSQL, MongoDB
-* **PuTTY & WinSCP:** SSH และ SFTP สำหรับการเชื่อมต่อและโอนย้ายไฟล์  
-* **AlmaLinux:** ระบบปฏิบัติการ Enterprise Linux สำหรับเซิร์ฟเวอร์ สามารถ Config http และ https ตั้งค่า crontab, HAProxy
-* **Zabbix:** ระบบมอนิเตอร์และแจ้งเตือนโครงสร้างพื้นฐาน  
+- **GitHub:** Version Control, Code Review, Collaboration  
+- **Postman:** API Testing & Automation  
+- **MockAPI:** API จำลองสำหรับ Frontend Development  
+- **Visual Studio Code / Visual Studio:** IDE หลักสำหรับพัฒนา  
+- **Navicat:** Database Management  
+- **PuTTY / WinSCP:** SSH & SFTP  
 
 ---
 
-## DevOps & Other Tools
+## ⚙️ DevOps, Infrastructure & Server
 
-[![My Skills](https://skillicons.dev/icons?i=docker,npm,photoshop,vite,gmail,figma,python,windows,powershell,premiere,kali&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,windows,powershell,nginx,kali&theme=dark)](https://skillicons.dev)
 
-* **Docker:** Containerization และจัดการคอนเทนเนอร์ด้วย Docker Compose  
-* **npm:** จัดการแพ็กเกจ JavaScript/Node.js  
-* **Adobe Photoshop:** ตกแต่งภาพกราฟิกสำหรับงาน UX/UI และสื่อโฆษณา  
-* **Vite:** Build tool สำหรับพัฒนาเว็บล้ำสมัยด้วยการรีโหลดเร็ว  
-* **Gmail:** การสื่อสารและจัดการอีเมลธุรกิจ (G Suite)  
-* **Figma:** การออกแบบ UI/UX ร่วมกันแบบเรียลไทม์  
-* **Python:** สคริปต์อัตโนมัติ วิเคราะห์ข้อมูล และ Backend Development  
-* **Windows & PowerShell:** สภาพแวดล้อมพัฒนาและอัตโนมัติบน Windows  
-* **Adobe Premiere Pro:** ตัดต่อวิดีโอสำหรับงานสื่อสอนและนำเสนอ  
-* **Kali Linux:** ระบบปฏิบัติการสำหรับ penetration testing และ security auditing  
-
----
-
-## Certificate
-<img width="863" height="609" alt="image" src="https://github.com/user-attachments/assets/3e74f5a4-7646-4ca9-891e-7df46ef7501d" />
-<img width="861" height="608" alt="image" src="https://github.com/user-attachments/assets/e57786c8-7e0b-4dcd-9f5f-e59f3f5f376e" />
-<img width="432" height="609" alt="image" src="https://github.com/user-attachments/assets/23f106e0-5f9a-40d4-98de-a1f82af22538" />
-<img width="429" height="608" alt="image" src="https://github.com/user-attachments/assets/710316a0-a387-402e-9fce-44a63b11fd67" />
+- **Docker & Docker Compose:** Containerization  
+- **Linux Server (AlmaLinux):**
+  - ติดตั้งและดูแล Server Production  
+  - Config HTTP / HTTPS  
+  - ตั้งค่า Cronjob, Reverse Proxy, HAProxy  
+- **Virtualization:** Proxmox  
+- **Monitoring:** Zabbix  
+- **Windows & PowerShell:** Automation และดูแลระบบ  
+- **Kali Linux:** Security Testing & Auditing  
 
 ---
 
-## ติดต่อ & โปรไฟล์
+## 🤖 AI & Automation
 
-* **GitHub:** [thelosechanathip](https://github.com/thelosechanathip)  
-* **Email:** [chanathipbadboy@gmail.com](mailto:chanathipbadboy@gmail.com)  
+- ใช้งาน AI เพื่อช่วย:
+  - วิเคราะห์ข้อมูล  
+  - สรุปเอกสาร  
+  - สร้างระบบผู้ช่วยภายในองค์กร  
+- พัฒนา Automation Workflow ด้วย **n8n**
+- เขียน Python สำหรับ:
+  - Script Automation  
+  - Backend AI Services  
+  - Data Processing  
 
-> ✉️ ยินดีรับงานใหม่และโอกาสในการร่วมงาน ติดต่อสอบถามได้เลยครับ!
+---
+
+## 🔐 Cybersecurity
+
+- ผ่านการอบรม **Cybersecurity จากหน่วยงานภาครัฐ / กระทรวง**
+- มีความเข้าใจด้าน:
+  - Security Awareness  
+  - Server Hardening  
+  - API Security  
+  - Audit & Incident Response (ระดับระบบ)  
+
+---
+
+## 📜 Certificates
+
+<img width="863" height="609" src="https://github.com/user-attachments/assets/3e74f5a4-7646-4ca9-891e-7df46ef7501d" />
+<img width="861" height="608" src="https://github.com/user-attachments/assets/e57786c8-7e0b-4dcd-9f5f-e59f3f5f376e" />
+<img width="432" height="609" src="https://github.com/user-attachments/assets/23f106e0-5f9a-40d4-98de-a1f82af22538" />
+<img width="429" height="608" src="https://github.com/user-attachments/assets/710316a0-a387-402e-9fce-44a63b11fd67" />
+
+---
+
+## 📬 ติดต่อ & โปรไฟล์
+
+- **GitHub:** https://github.com/thelosechanathip  
+- **Email:** chanathipbadboy@gmail.com  
+
+> ✨ ยินดีรับงานใหม่ / โปรเจกต์ระยะยาว / งานองค์กร  
+> สามารถติดต่อพูดคุยรายละเอียดได้โดยตรงครับ
