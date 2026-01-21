@@ -1,26 +1,29 @@
-# 🧠 ทักษะ & เทคโนโลยี (Skills & Technologies)
+# 🧠 ทักษะ & เทคโนโลยี (Skills & Technologies) 🧠
 
 สรุปความสามารถด้านการพัฒนาซอฟต์แวร์แบบครบวงจร ตั้งแต่การออกแบบ UX/UI, Frontend, Backend, Database, DevOps, Infrastructure ไปจนถึง Cybersecurity และ AI  
-มีประสบการณ์พัฒนาระบบ **ใช้งานจริงระดับองค์กร / โรงพยาบาล / หน่วยงานภาครัฐ**
+มีประสบการณ์พัฒนาระบบ **ใช้งานจริงระดับองค์กร / โรงพยาบาล / หน่วยงานภาครัฐ / ระบบ POS(Point Of Sales)**
 
 ---
 
-## 🎨 UX / UI Design
+## 🎨 UX / UI Design 🎨
 
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
 - ออกแบบ **User Flow, Wireframe และ Prototype** ด้วย Figma  
 - สร้างและดูแล **Design System** เพื่อความสม่ำเสมอของ UI  
 - ออกแบบ UX โดยคำนึงถึง **Usability, Accessibility และ Workflow ขององค์กร**
+- Canva, CanvaAI
 
 ---
 
-## 🌐 Frontend Development
+## 🌐 Frontend Development 🌐
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,react,next,vue,angular,materialui&theme=dark)](https://skillicons.dev)
 
 **ความเชี่ยวชาญหลัก**
-- พัฒนา **SPA / SSR / PWA** ด้วย Next.js และ Framework สมัยใหม่  
+- พัฒนา **SPA / SSR / PWA** ด้วย Next.js และ Framework สมัยใหม่
+- ReactJS
+- PHP (Laravel, CodeIgniter) 
 - Responsive & Mobile-first Design  
 - ใช้งาน UI Framework:
   - Bootstrap, Tailwind CSS  
@@ -30,7 +33,7 @@
 
 ---
 
-## 🧩 Backend Development
+## 🧩 Backend Development 🧩
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,python,nodejs,bun,go&theme=dark)](https://skillicons.dev)
 
@@ -45,7 +48,7 @@
 
 ---
 
-## 🗄️ Database & Data Engineering
+## 🗄️ Database & Data Engineering 🗄️
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mariadb,postgresql,mongodb&theme=dark)](https://skillicons.dev)
 
@@ -64,7 +67,7 @@
 
 ---
 
-## 🛠️ Tools & Developer Utilities
+## 🛠️ Tools & Developer Utilities 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=github,postman,vscode,visualstudio&theme=dark)](https://skillicons.dev)
 
@@ -73,11 +76,13 @@
 - **MockAPI:** API จำลองสำหรับ Frontend Development  
 - **Visual Studio Code / Visual Studio:** IDE หลักสำหรับพัฒนา  
 - **Navicat:** Database Management  
-- **PuTTY / WinSCP:** SSH & SFTP  
+- **PuTTY / WinSCP:** SSH & SFTP
+- **Bruno:** API Testing & Automation
+- **MobaSterm:** SSH & SFTP
 
 ---
 
-## ⚙️ DevOps, Infrastructure & Server
+## ⚙️ DevOps, Infrastructure & Server ⚙️
 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,windows,powershell,nginx,kali&theme=dark)](https://skillicons.dev)
 
@@ -89,11 +94,12 @@
 - **Virtualization:** Proxmox  
 - **Monitoring:** Zabbix  
 - **Windows & PowerShell:** Automation และดูแลระบบ  
-- **Kali Linux:** Security Testing & Auditing  
+- **Kali Linux:** Security Testing & Auditing
+- **Duo:** 2FA
 
 ---
 
-## 🤖 AI & Automation
+## 🤖 AI & Automation 🤖
 
 - ใช้งาน AI เพื่อช่วย:
   - วิเคราะห์ข้อมูล  
@@ -103,11 +109,17 @@
 - เขียน Python สำหรับ:
   - Script Automation  
   - Backend AI Services  
-  - Data Processing  
+  - Data Processing
+- ChatGPT
+- Gemini
+- Grok
+- Copilot
+- Deepseek
+- Ollama
 
 ---
 
-## 🔐 Cybersecurity
+## 🔐 Cybersecurity 🔐
 
 - ผ่านการอบรม **Cybersecurity จากหน่วยงานภาครัฐ / กระทรวง**
 - มีความเข้าใจด้าน:
@@ -118,7 +130,7 @@
 
 ---
 
-## 📜 Certificates
+## 📜 Certificates 📜
 
 <img width="863" height="609" src="https://github.com/user-attachments/assets/3e74f5a4-7646-4ca9-891e-7df46ef7501d" />
 <img width="861" height="608" src="https://github.com/user-attachments/assets/e57786c8-7e0b-4dcd-9f5f-e59f3f5f376e" />
@@ -131,7 +143,8 @@
 ## 📬 ติดต่อ & โปรไฟล์
 
 - **GitHub:** https://github.com/thelosechanathip  
-- **Email:** chanathipbadboy@gmail.com  
+- **Email:** chanathipbadboy@gmail.com
+- **TelephoneNumber:** 099-9739572
 
 > ✨ ยินดีรับงานใหม่ / โปรเจกต์ระยะยาว / งานองค์กร  
 > สามารถติดต่อพูดคุยรายละเอียดได้โดยตรงครับ
