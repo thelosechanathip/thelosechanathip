@@ -124,8 +124,7 @@
 <img width="861" height="608" src="https://github.com/user-attachments/assets/e57786c8-7e0b-4dcd-9f5f-e59f3f5f376e" />
 <img width="432" height="609" src="https://github.com/user-attachments/assets/23f106e0-5f9a-40d4-98de-a1f82af22538" />
 <img width="429" height="608" src="https://github.com/user-attachments/assets/710316a0-a387-402e-9fce-44a63b11fd67" />
-![โครงการอบรมพัฒนาระบบสารสนเทศสุขภาพที่ ๘ สร้างความตระหนักรู้ เพิ่มขีดความสามารถ ด้านความมั่นคงปลอดภัยไซเบอร์](https://github.com/user-attachments/assets/0e52ce6c-3a04-401d-85d0-6ce5cea8b360)
-
+<img width="1370" height="972" alt="image" src="https://github.com/user-attachments/assets/7959849d-e175-4dca-b6bc-ad0eb5efa023" />
 
 ---
 
