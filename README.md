@@ -50,7 +50,7 @@
 
 ## 🗄️ Database & Data Engineering 🗄️
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mariadb,postgresql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark)](https://skillicons.dev)
 
 **ความเชี่ยวชาญหลัก**
 - ออกแบบ **Database Schema & ER Diagram**
